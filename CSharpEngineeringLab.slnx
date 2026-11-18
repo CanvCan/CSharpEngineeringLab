@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Week01/" />
+  <Folder Name="/Week01/labs/">
+    <Project Path="week01-csharp-network/labs/Day01.MemoryManagement/Day01.MemoryManagement.csproj" />
+    <Project Path="week01-csharp-network/labs/Day02.CollectionsAndLinq/Day02.CollectionsAndLinq.csproj" />
+    <Project Path="week01-csharp-network/labs/Day03.ThreadsAndSync/Day03.ThreadsAndSync.csproj" />
+    <Project Path="week01-csharp-network/labs/Day04.TasksAndAsync/Day04.TasksAndAsync.csproj" />
+    <Project Path="week01-csharp-network/labs/Day05.ChannelsProducerConsumer/Day05.ChannelsProducerConsumer.csproj" />
+    <Project Path="week01-csharp-network/labs/Day06.SocketsAndSerialization/Day06.SocketsAndSerialization.csproj" />
+  </Folder>
+  <Folder Name="/Week01/telemetry/">
+    <Project Path="week01-csharp-network/telemetry/Day07.TelemetryReceiver/Day07.TelemetryReceiver.csproj" />
+  </Folder>
+</Solution>
